@@ -2,8 +2,7 @@
 
 Bekarevi, ev arkadaşları, öğrenciler veya ortak yaşam alanlarını paylaşan herkes için geliştirilmiş modern bir gider takip ve yönetim uygulamasıdır. Bu uygulama sayesinde ev harcamaları şeffaf bir şekilde yönetilebilir, borç-alacak takibi kolayca yapılabilir.
 
-![Proje Ekran Görüntüsü](httpsd://i.imgur.com/your-screenshot-url.png) 
-*Projenin çalışan bir halinin ekran görüntüsünü buraya ekleyebilirsiniz.*
+
 
 ---
 
